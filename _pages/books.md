@@ -6,8 +6,22 @@ nav: false
 collection: books
 ---
 
-> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
->
-> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
+> -- Simon J. D. Prince, MIT Press, Understanding Deep Learning (2024)
+
+It is a good book to start your journey into the field of Deep Learning. The tutorials are quite simple to follow and gives a good insights on the notions. This book gives you most of the tools to tackle a vast field of machine learning problems.
+
+> -- Sutton & Barto, MIT Press, Reinforcement Learning (1992)
+
+It is a must read to understand deeply all techniques that gave birth to deep reinforcement learning.
+
+> -- Bogdan Nica, European Mathematical Society, A Brief Introduction to Spectral Graph Theory (2018)
+
+This book introduce the mathematical tools used to understand graphs. It does not contain any algorithm.
+
+There are several chapters on invariants of graphs, several on abstract algebra analysis of graphs (characters, finite field, quadratic reciprocity), and linear algebra (spectral properties of graphs and bounds on them).
+
+I strongly recommend !
+
+
 
 ## Books that I am reading, have read, or will read

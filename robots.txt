@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://IAntoineV.github.io/sitemap.xml
+Sitemap: https://iantoinev.github.io/sitemap.xml
